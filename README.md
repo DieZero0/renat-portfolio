@@ -1,6 +1,6 @@
 # Привет, я Renat 👋
 
-![Аватар Renat на GitHub](assets/avatar.png)
+![Фотография Renat](assets/photo.png)
 
 Я изучаю **Git и GitHub** и собираю портфолио учебных проектов. Мой профиль — [DieZero0](https://github.com/DieZero0).
 
